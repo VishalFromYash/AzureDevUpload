@@ -1,0 +1,7 @@
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\AureDpy.exe
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\appsettings.Development.json
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\appsettings.json
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\AureDpy.dll
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\AureDpy.deps.json
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\AureDpy.runtimeconfig.json
+D:\DotNetTraning\MVC\AureDpy\bin\Release\net8.0\publish\AureDpy.pdb
